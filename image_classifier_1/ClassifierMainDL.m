@@ -1,8 +1,8 @@
 classdef ClassifierMainDL   
     % Author: https://github.com/juancarlosmiranda/
     % 
-    %DeepLearningClassifier This is a main process
-    %   Here this is an detailed explainded text
+    %ClassifierMainDL
+    % 
     % Based on Mathworks Tutorial "Classify Webcam Images Using Deep Learning"
     % https://es.mathworks.com/help/deeplearning/ug/classify-images-from-webcam-using-deep-learning.html?s_tid=srchtitle
     % 
